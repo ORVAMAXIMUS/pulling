@@ -3,5 +3,5 @@ $(document).ready(function (){
 });
 
 function cargarDataTable () {
-    
+    alert("practicando con gitkraken");
 }
